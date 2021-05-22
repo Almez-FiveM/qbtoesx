@@ -400,7 +400,23 @@ local user : ESX.Get.PlayerFromId(src)
 
 --Client Side
 
-esx:onPlayerDeath -> hospital:server:SetDeathStatus
+# ÜSTEKİ QBUSCORE
+```lua
+QBCore.Shared.Items
+```
+# ALTAKİ ESX
+```lua
+ESX.GetItems()
+```
+
+# ÜSTEKİ QBUSCORE
+```lua
+esx:onPlayerDeath 
+```
+# ALTAKİ ESX
+```lua
+hospital:server:SetDeathStatus
+```
 
 esx:playerLoaded -> QBCore:Client:OnPlayerLoaded
 
