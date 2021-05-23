@@ -1,4 +1,4 @@
-# QbusToEsx Qbus Scriptleri ESX e Çevirme.
+# Güncellenmeye devam edecektir.
 --------------------------------------------------------------------------------------------------
 Qbus Temeli Ve ESX temeli.
  ```lua
