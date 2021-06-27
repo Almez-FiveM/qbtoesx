@@ -1,5 +1,14 @@
 # Güncellenmeye devam edecektir.
 --------------------------------------------------------------------------------------------------
+```lua
+QBCore.Shared.Items
+```
+# QBCORE
+ ```lua
+ESX.GetItems(), ya da ESX.Items (server tarafı)
+```
+# ESX
+
 Qbus Temeli Ve ESX temeli.
  ```lua
 QBCore = nil 
